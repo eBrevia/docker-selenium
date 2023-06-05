@@ -2,7 +2,7 @@
 # NOTE: DO *NOT* EDIT THIS FILE.  IT IS GENERATED.
 # PLEASE UPDATE Dockerfile.txt INSTEAD OF THIS FILE
 # !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-FROM ebreviainc/selenium-grid:base-3.141.59-20230320
+FROM ebreviainc/selenium-grid:base-3.141.59-20230605
 LABEL authors=victor.smirnov@dfinsolutions.com
 
 USER root
